@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreventXSS", "PreventXSS\PreventXSS.csproj", "{4A3E5AF4-2201-46C7-9CA1-4732B86900CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PreventXSSWithTests.Test", "PreventXSSWithTests.Test\PreventXSSWithTests.Test.csproj", "{6DE09698-BC12-4DDF-81C3-374376FBD4CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A3E5AF4-2201-46C7-9CA1-4732B86900CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A3E5AF4-2201-46C7-9CA1-4732B86900CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A3E5AF4-2201-46C7-9CA1-4732B86900CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A3E5AF4-2201-46C7-9CA1-4732B86900CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DE09698-BC12-4DDF-81C3-374376FBD4CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DE09698-BC12-4DDF-81C3-374376FBD4CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DE09698-BC12-4DDF-81C3-374376FBD4CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DE09698-BC12-4DDF-81C3-374376FBD4CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,8 @@
+C:\projects\CatCounter\CatCounterWithTests.Test\bin\Debug\CatCounterWithTests.Test.dll
+C:\projects\CatCounter\CatCounterWithTests.Test\bin\Debug\CatCounterWithTests.Test.pdb
+C:\projects\CatCounter\CatCounterWithTests.Test\bin\Debug\CatCounter.exe
+C:\projects\CatCounter\CatCounterWithTests.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\projects\CatCounter\CatCounterWithTests.Test\bin\Debug\CatCounter.pdb
+C:\projects\CatCounter\CatCounterWithTests.Test\obj\Debug\CatCounterWithTests.Test.csprojResolveAssemblyReference.cache
+C:\projects\CatCounter\CatCounterWithTests.Test\obj\Debug\CatCounterWithTests.Test.dll
+C:\projects\CatCounter\CatCounterWithTests.Test\obj\Debug\CatCounterWithTests.Test.pdb

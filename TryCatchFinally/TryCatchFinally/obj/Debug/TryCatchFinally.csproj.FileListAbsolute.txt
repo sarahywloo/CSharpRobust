@@ -1,0 +1,6 @@
+C:\projects\TryCatchFinally\TryCatchFinally\bin\Debug\TryCatchFinally.exe.config
+C:\projects\TryCatchFinally\TryCatchFinally\bin\Debug\TryCatchFinally.exe
+C:\projects\TryCatchFinally\TryCatchFinally\bin\Debug\TryCatchFinally.pdb
+C:\projects\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.csprojResolveAssemblyReference.cache
+C:\projects\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.exe
+C:\projects\TryCatchFinally\TryCatchFinally\obj\Debug\TryCatchFinally.pdb
