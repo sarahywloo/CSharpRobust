@@ -1,6 +1,0 @@
-C:\projects\CreatingBitmap\CreatingBitmap\bin\Debug\CreatingBitmap.exe.config
-C:\projects\CreatingBitmap\CreatingBitmap\bin\Debug\CreatingBitmap.exe
-C:\projects\CreatingBitmap\CreatingBitmap\bin\Debug\CreatingBitmap.pdb
-C:\projects\CreatingBitmap\CreatingBitmap\obj\Debug\CreatingBitmap.csprojResolveAssemblyReference.cache
-C:\projects\CreatingBitmap\CreatingBitmap\obj\Debug\CreatingBitmap.exe
-C:\projects\CreatingBitmap\CreatingBitmap\obj\Debug\CreatingBitmap.pdb

@@ -1,6 +1,0 @@
-C:\projects\PreventXSS\PreventXSS\bin\Debug\PreventXSS.exe.config
-C:\projects\PreventXSS\PreventXSS\obj\Debug\PreventXSS.csprojResolveAssemblyReference.cache
-C:\projects\PreventXSS\PreventXSS\bin\Debug\PreventXSS.exe
-C:\projects\PreventXSS\PreventXSS\bin\Debug\PreventXSS.pdb
-C:\projects\PreventXSS\PreventXSS\obj\Debug\PreventXSS.exe
-C:\projects\PreventXSS\PreventXSS\obj\Debug\PreventXSS.pdb

@@ -1,6 +1,0 @@
-C:\projects\CatCounter\CatCounter\bin\Debug\CatCounter.exe.config
-C:\projects\CatCounter\CatCounter\bin\Debug\CatCounter.exe
-C:\projects\CatCounter\CatCounter\bin\Debug\CatCounter.pdb
-C:\projects\CatCounter\CatCounter\obj\Debug\CatCounter.csprojResolveAssemblyReference.cache
-C:\projects\CatCounter\CatCounter\obj\Debug\CatCounter.exe
-C:\projects\CatCounter\CatCounter\obj\Debug\CatCounter.pdb

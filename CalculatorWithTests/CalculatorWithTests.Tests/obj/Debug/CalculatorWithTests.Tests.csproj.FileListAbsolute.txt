@@ -1,7 +1,0 @@
-C:\projects\CalculatorWithTests\CalculatorWithTests.Tests\bin\Debug\CalculatorWithTests.Tests.dll
-C:\projects\CalculatorWithTests\CalculatorWithTests.Tests\bin\Debug\CalculatorWithTests.Tests.pdb
-C:\projects\CalculatorWithTests\CalculatorWithTests.Tests\bin\Debug\CalculatorWithTests.exe
-C:\projects\CalculatorWithTests\CalculatorWithTests.Tests\bin\Debug\CalculatorWithTests.pdb
-C:\projects\CalculatorWithTests\CalculatorWithTests.Tests\obj\Debug\CalculatorWithTests.Tests.csprojResolveAssemblyReference.cache
-C:\projects\CalculatorWithTests\CalculatorWithTests.Tests\obj\Debug\CalculatorWithTests.Tests.dll
-C:\projects\CalculatorWithTests\CalculatorWithTests.Tests\obj\Debug\CalculatorWithTests.Tests.pdb

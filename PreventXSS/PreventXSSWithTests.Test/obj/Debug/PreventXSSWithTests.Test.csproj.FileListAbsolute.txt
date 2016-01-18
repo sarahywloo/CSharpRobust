@@ -1,8 +1,0 @@
-C:\projects\PreventXSS\PreventXSSWithTests.Test\obj\Debug\PreventXSSWithTests.Test.csprojResolveAssemblyReference.cache
-C:\projects\PreventXSS\PreventXSSWithTests.Test\bin\Debug\PreventXSSWithTests.Test.dll
-C:\projects\PreventXSS\PreventXSSWithTests.Test\bin\Debug\PreventXSSWithTests.Test.pdb
-C:\projects\PreventXSS\PreventXSSWithTests.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\projects\PreventXSS\PreventXSSWithTests.Test\bin\Debug\PreventXSS.exe
-C:\projects\PreventXSS\PreventXSSWithTests.Test\bin\Debug\PreventXSS.pdb
-C:\projects\PreventXSS\PreventXSSWithTests.Test\obj\Debug\PreventXSSWithTests.Test.dll
-C:\projects\PreventXSS\PreventXSSWithTests.Test\obj\Debug\PreventXSSWithTests.Test.pdb

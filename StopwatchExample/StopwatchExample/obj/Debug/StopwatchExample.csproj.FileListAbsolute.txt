@@ -1,6 +1,0 @@
-C:\projects\StopwatchExample\StopwatchExample\bin\Debug\StopwatchExample.exe.config
-C:\projects\StopwatchExample\StopwatchExample\bin\Debug\StopwatchExample.exe
-C:\projects\StopwatchExample\StopwatchExample\bin\Debug\StopwatchExample.pdb
-C:\projects\StopwatchExample\StopwatchExample\obj\Debug\StopwatchExample.csprojResolveAssemblyReference.cache
-C:\projects\StopwatchExample\StopwatchExample\obj\Debug\StopwatchExample.exe
-C:\projects\StopwatchExample\StopwatchExample\obj\Debug\StopwatchExample.pdb
